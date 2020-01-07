@@ -5,15 +5,14 @@ System ]REF[ Commons
   ∴∵       ]NAME[ Therefor; Because
   ∅≇       ]NAME[ Empty Set; Neither Approximately Nor Actually Equal To
 ͼͽ 
-library ]REF[ Unicode References 
+library ]REF[ Text, Characters, Expressions
   ͽ unicode ]URL[ https://www.compart.com/en/unicode; great library ui and metadata for characters
   ͽ unicode ]URL[ https://www.compart.com/en/unicode/mirrored; great quick reference for the more fun side of unicode
   ͼ font    ]URL[ https://stackoverflow.com/questions/34732718/why-isnt-there-a-font-that-contains-all-unicode-glyphs
+  ͼ regex   ]URL[ https://www.regular-expressions.info/engine.html  
+  ͼ regex   ]URL[ https://www.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html  
 ͼͽ
 philosophy ]REF[ Database Rights & Free?/Open? facts)
   ͼ ip      ]URL[ http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=3119&context=facpubs
-ͼͽ
-library ]REF[ Regular Expressions
-  ͼ samples ]URL[ https://www.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html  
 ͼ
 
